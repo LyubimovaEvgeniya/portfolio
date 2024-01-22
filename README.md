@@ -1,4 +1,6 @@
-Hello! Welcome to my portfolio.
+Hello! My name is Evgeniia Liubimova and I'm a Middle Data Analyst. 
+Welcome to my portfolio.
+
 Here u can find:
 * CV
 * Certificates
