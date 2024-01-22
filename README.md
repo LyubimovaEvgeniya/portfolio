@@ -9,6 +9,7 @@ Here u can find:
 * University theses – Master 2021 and Bachelor 2019 main theses
 
 Unfortunately, due to NDA I can't share my current work reports and scripts, but will be happy to discuss the experience.
+
 Look forward to contact: janelub@ya.ru
 
 Have a nice day!
